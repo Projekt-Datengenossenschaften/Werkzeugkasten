@@ -1,0 +1,13 @@
+Erläuterungen zu den Dateien im GitHub-Unterverzeichnis 07_DatenmodelleFürDenDatenraumEinerDatengenossenchaft
+
+01_DG_Werkzeugkasten_Datenmodell_ErläuterungBlogbeitrag.pdf
+
+
+02_DG_Werkzeugkasten_Datenmodell_Illustration_BeispielKSS_PDF.pdf
+
+03_DG_Werkzeugkasten_TOOL_Datenmodell_DatenmodellBeispielKSS_DatabaseStructureAufbauKSSSQL_Befehle.txt
+
+04_DG_Werkzeugkasten_TOOL_Datenmodell_BeispielKSS_DatabaseStructureAufbauKSS_Visio.vsdx
+
+
+
